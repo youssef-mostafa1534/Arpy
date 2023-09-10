@@ -45,21 +45,6 @@ import asyncio
 
 لا_شيئ = None
 
-أحمر = "red"
-
-بتقالي = "orange"
-
-أصفر = "yellow"
-
-أزرق = "blue"
-
-أخضر = "green"
-
-بنفسجي = "purple"
-
-وردي = "pink"
-
-
 # The below code defines a function called "طبع" (which means "print" in Arabic) that takes a
 # parameter called "text". The function attempts to print the value of "text" using the print()
 # function. If an exception occurs during the printing process, the function catches the exception and
